@@ -14,4 +14,4 @@
 
 
 
-[niki]: https://aymdj.me/
+[niki]: https://niki.wtf/
