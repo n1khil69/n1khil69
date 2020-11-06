@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey 👋🏼, i'm Nikhil, aka, alias, also known as.. [Nik][niki]!
 
-<!--
-**n1kh1l1337/n1kh1l1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student & a ~~bad~~ developer!
+- I'm currently working on ~~some random small projects~~ 
+- What am i currently learning ? Can't really say, i'm constantly learning new things! ~~blowing my own horn~~
+- I like video games 🎮, annoying people, and technology 💻 in general!
 
-Here are some ideas to get you started:
+### My social networks 
+- ##### Nik#0420 
+- [<img align="left" width="40px" src="https://niki.wtf/xfavicon-32x32.png,qv=ba707f8cbe3c9c4699c0dd0c217e32d2.pagespeed.ic.WZv2fLcYXW.webp"/>][niki]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+[niki]: https://aymdj.me/
