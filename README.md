@@ -6,7 +6,7 @@
 - I like video games 🎮, annoying people, and technology 💻 in general!
 
 ### My social networks 
-- ##### Nik#0420 
+- ##### nik#0911 
 - [<img align="left" width="40px" src="https://niki.wtf/xfavicon-32x32.png,qv=ba707f8cbe3c9c4699c0dd0c217e32d2.pagespeed.ic.WZv2fLcYXW.webp"/>][niki]
 
 
@@ -14,4 +14,4 @@
 
 
 
-[niki]: https://niki.wtf/
+[niki]: https://cowona.org/
