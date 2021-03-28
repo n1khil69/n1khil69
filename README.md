@@ -1,4 +1,4 @@
-### Hey 👋🏼, i'm Nikhil, aka, alias, also known as.. [Nik][niki]!
+### Hey 👋🏼, i'm Nikhil, aka, alias, also known as.. Nik
 
 ## I'm a student & a ~~bad~~ developer!
 - I'm currently working on ~~some random small projects~~ 
@@ -6,12 +6,6 @@
 - I like video games 🎮, annoying people, and technology 💻 in general!
 
 ### My social networks 
-- ##### nik#0911 
-- [<img align="left" width="40px" src="https://niki.wtf/xfavicon-32x32.png,qv=ba707f8cbe3c9c4699c0dd0c217e32d2.pagespeed.ic.WZv2fLcYXW.webp"/>][niki]
+- ##### nik#0005
 
 
-
-
-
-
-[niki]: https://cowona.org/
