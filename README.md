@@ -6,6 +6,6 @@
 - I like video games 🎮, annoying people, and technology 💻 in general!
 
 ### My social networks 
-- ##### nik#0005
+- ##### nik#6643
 
 
